@@ -33,13 +33,13 @@
 
 ## <span style="color:#FFD700;">Proyectos Destacados</span> 📁
 
-### [Proyecto 1: Vue Plantilla]
+### Proyecto 1: Vue Plantilla
 Proyecto 
 
-### [Proyecto 2: Laravel doble factor]
+### Proyecto 2: Laravel doble factor
 API robusta para sistema de login, envio de correo electronico o servicio de doble factor.
 
-### [Proyecto 3: Sistema de gestión de biblioteca]
+### Proyecto 3: Sistema de gestión de biblioteca
 Sistema web para gestión de clientes y administradores de una biblioteca
 
 <!-- ## <span style="color:#FF0000;">Estadísticas de GitHub</span> 📊 -->
