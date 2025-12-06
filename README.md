@@ -1,6 +1,6 @@
 # <span style="color:#FF0000;">Gabriel Lara</span> <span style="color:#FFD700;">| Desarrollador Full Stack</span> 🚀
 
-![Iron Man Banner](https://via.placeholder.com/800x200/FF0000/FFD700?text=Gabriel+Lara+-+Desarrollador+Full+Stack)
+<!-- ![Iron Man Banner](https://via.placeholder.com/800x200/FF0000/FFD700?text=Gabriel+Lara+-+Desarrollador+Full+Stack) -->
 
 ## <span style="color:#FFD700;">Sobre Mí</span> 🤖
 
@@ -42,7 +42,7 @@ API robusta para sistema de login, envio de correo electronico o servicio de dob
 ### [Proyecto 3: Sistema de gestión de biblioteca]
 Sistema web para gestión de clientes y administradores de una biblioteca
 
-## <span style="color:#FF0000;">Estadísticas de GitHub</span> 📊
+<!-- ## <span style="color:#FF0000;">Estadísticas de GitHub</span> 📊 -->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellara181999&show_icons=true&theme=radical&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FF0000) -->
 
