@@ -21,7 +21,6 @@
 
 ### Frameworks y Librerías
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -34,26 +33,24 @@
 
 ## <span style="color:#FFD700;">Proyectos Destacados</span> 📁
 
-### [Proyecto 1: Aplicación Web Moderna](https://github.com/gabriellara181999/proyecto1)
-Una aplicación web construida con React y Node.js, enfocada en la gestión de tareas. Incluye autenticación y base de datos en tiempo real.
+### [Proyecto 1: Vue Plantilla]
+Proyecto 
 
-### [Proyecto 2: API RESTful](https://github.com/gabriellara181999/proyecto2)
-API robusta para servicios backend, utilizando Express.js y MongoDB. Documentada con Swagger.
+### [Proyecto 2: Laravel doble factor]
+API robusta para sistema de login, envio de correo electronico o servicio de doble factor.
 
-### [Proyecto 3: Herramienta de Automatización](https://github.com/gabriellara181999/proyecto3)
-Script en Python para automatizar procesos repetitivos, mejorando la productividad.
-
-*(Estos son ejemplos; reemplaza con tus proyectos reales)*
+### [Proyecto 3: Sistema de gestión de biblioteca]
+Sistema web para gestión de clientes y administradores de una biblioteca
 
 ## <span style="color:#FF0000;">Estadísticas de GitHub</span> 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellara181999&show_icons=true&theme=radical&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FF0000)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellara181999&show_icons=true&theme=radical&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FF0000) -->
 
 ## <span style="color:#FFD700;">Contacto</span> 📞
 
-- **LinkedIn:** [Gabriel Lara](https://linkedin.com/in/gabriellara181999)
-- **Twitter:** [@gabriellara181999](https://twitter.com/gabriellara181999)
-- **Sitio Web:** [gabriellara.dev](https://gabriellara.dev)
+- **LinkedIn:** [Gabriel Lara](https://linkedin.com/in/gabriellara1899)
+- **Twitter:** [@gabriellara181999](https://x.com/GabrielMan9210)
+- **Sitio Web:** [gabriellara.dev](https://www.dev-gabriel.fatimagabriel.me)
 
 ¡No dudes en contactarme para colaboraciones o charlas sobre tecnología!
 
