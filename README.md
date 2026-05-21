@@ -1,61 +1,134 @@
-# <span style="color:#FF0000;">Gabriel Lara</span> <span style="color:#FFD700;">| Desarrollador Full Stack</span> 🚀
+<p align="center">
+  <img src="./images/gabriellara.svg" alt="Gabriel Lara" width="650" />
+</p>
 
-<!-- ![Iron Man Banner](https://via.placeholder.com/800x200/FF0000/FFD700?text=Gabriel+Lara+-+Desarrollador+Full+Stack) -->
+<h1 align="center">
+  Gabriel Lara
+</h1>
 
-## <span style="color:#FFD700;">Sobre Mí</span> 🤖
+<p align="center">
+  Full Stack Developer · Laravel · Vue · Astro · TypeScript
+</p>
 
-¡Hola! Soy **Gabriel Lara**, un apasionado desarrollador full stack con un toque de ingenio y determinación, inspirado en el legendario Iron Man. Me encanta crear soluciones innovadoras, desde aplicaciones web hasta sistemas complejos, siempre con un enfoque en la eficiencia y la creatividad.
-
-- 🔭 Actualmente trabajando en proyectos personales y colaborativos.
-- 🌱 Aprendiendo nuevas tecnologías como IA y desarrollo móvil.
-- 👯 Busco colaborar en proyectos open source y startups.
-- 💬 Pregúntame sobre desarrollo web, JavaScript, Python o cualquier tema tech.
-- 📫 Contáctame: [gabriellara181999@gmail.com](mailto:gabriellara181999@gmail.com)
-- ⚡ Dato curioso: Soy fanático de los superhéroes y el café ☕.
-
-## <span style="color:#FF0000;">Habilidades Técnicas</span> 🛠️
-
-### Lenguajes de Programación
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks y Librerías
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-- ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-
-### Herramientas y Plataformas
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## <span style="color:#FFD700;">Proyectos Destacados</span> 📁
-
-### Proyecto 1: Vue Plantilla
-Proyecto 
-
-### Proyecto 2: Laravel doble factor
-API robusta para sistema de login, envio de correo electronico o servicio de doble factor.
-
-### Proyecto 3: Sistema de gestión de biblioteca
-Sistema web para gestión de clientes y administradores de una biblioteca
-
-<!-- ## <span style="color:#FF0000;">Estadísticas de GitHub</span> 📊 -->
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellara181999&show_icons=true&theme=radical&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FF0000) -->
-
-## <span style="color:#FFD700;">Contacto</span> 📞
-
-- **LinkedIn:** [Gabriel Lara](https://linkedin.com/in/gabriellara1899)
-- **Twitter:** [@gabriellara181999](https://x.com/GabrielMan9210)
-- **Sitio Web:** [gabriellara.dev](https://www.dev-gabriel.fatimagabriel.me)
-
-¡No dudes en contactarme para colaboraciones o charlas sobre tecnología!
+<p align="center">
+  Building modern digital experiences with performance, design and scalable architecture.
+</p>
 
 ---
 
-<div align="center">
-  <span style="color:#FF0000;">Hecho con ❤️ y un toque de Iron Man</span>
-</div>
+## ⚡ About Me
+
+I'm a full stack developer focused on creating fast, scalable and visually polished applications.
+
+My workflow combines backend architecture, frontend experience and modern tooling to build products that feel solid, elegant and efficient.
+
+Inspired by the engineering mindset behind Iron Man & JARVIS:
+clean systems, intelligent automation and futuristic interfaces.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt-020420?style=for-the-badge&logo=nuxt&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Modern web architecture
+- Astro + Island Architecture
+- Laravel APIs & scalable systems
+- Interactive UI experiences
+- Motion & micro-interactions
+- AI-assisted workflows
+- Developer experience optimization
+
+---
+
+## 🧠 Philosophy
+
+> “A great interface should feel invisible.  
+> A great system should feel inevitable.”
+
+I enjoy building products where performance, design and engineering work together seamlessly.
+
+---
+
+## 🌐 Featured Project
+
+### ✨ El Salvador Mágico
+
+A modern tourism platform focused on showcasing the beauty, culture and experiences of El Salvador through immersive design and performant web technologies.
+
+**Stack**
+- Astro 6
+- Vue 3
+- TypeScript
+- TailwindCSS
+- Anime.js
+- Content Collections
+- i18n
+- Island Architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center" style="display:flex; justify-content:center;">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellara181999&show_icons=true&theme=transparent" />
+  
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=gabriellara181999&theme=dark" />
+</p>
+
+---
+
+## ⚙️ Currently Building
+
+- Tourism platforms
+- Inventory systems
+- Authentication systems
+- Interactive frontend experiences
+- AI-powered workflows
+- Modern Laravel ecosystems
+
+---
+
+## 🔗 Website
+
+<p align="center">
+  <a href="https://www.dev-gabriel.fatimagabriel.me">
+    dev-gabriel.fatimagabriel.me
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    Designed & engineered with precision ⚡ with iroman favorite 
+  </sub>
+</p>
