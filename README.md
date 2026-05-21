@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/gabriellara.svg" alt="Gabriel Lara" width="650" />
+  <img src="./images/gabriellara.svg" alt="Gabriel Lara" width="400" />
 </p>
 
 <h1 align="center">
