@@ -102,7 +102,7 @@ A modern tourism platform focused on showcasing the beauty, culture and experien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellara181999&show_icons=true&theme=transparent&title_color=C8A03C&icon_color=C8743C&text_color=E8E0C8&border_color=C8A03C" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellara181999&show_icons=true&theme=dark&title_color=C8A03C&icon_color=C8743C&text_color=E8E0C8&border_color=C8A03C" />
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=gabriellara181999&theme=darkhub&column=4&margin-w=8&margin-h=8" />
 </p>
 
