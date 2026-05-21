@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=AA0505&center=true&vCenter=true&width=500&lines=GABRIEL+LARA;WEB+DEVELOPER+⚡" alt="Gabriel Lara" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=AA0505&center=true&vCenter=true&width=500&lines=GABRIEL+LARA;WEB+DEVELOPER" alt="Gabriel Lara" />
 </p>
 
 <h2 align="center">
