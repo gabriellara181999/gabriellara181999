@@ -2,13 +2,15 @@
   <img src="./images/gabriellara.svg" alt="Gabriel Lara" width="400" />
 </p>
 
-<h1 align="center">
-  Gabriel Lara
-</h1>
+---
 
 <p align="center">
-  Full Stack Developer · Laravel · Vue · Astro · TypeScript
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=AA0505&center=true&vCenter=true&width=500&lines=GABRIEL+LARA;WEB+DEVELOPER+⚡" alt="Gabriel Lara" />
 </p>
+
+<h2 align="center">
+  Laravel · Vue · Astro · TypeScript
+</h2>
 
 <p align="center">
   Building modern digital experiences with performance, design and scalable architecture.
@@ -85,23 +87,23 @@ I enjoy building products where performance, design and engineering work togethe
 A modern tourism platform focused on showcasing the beauty, culture and experiences of El Salvador through immersive design and performant web technologies.
 
 **Stack**
-- Astro 6
-- Vue 3
-- TypeScript
-- TailwindCSS
-- Anime.js
-- Content Collections
-- i18n
-- Island Architecture
+
+![Astro](https://img.shields.io/badge/Astro_6-0C1222?style=flat-square&logo=astro&logoColor=C8A03C)
+![Vue](https://img.shields.io/badge/Vue_3-0A0A0A?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Anime.js](https://img.shields.io/badge/Anime.js-0A0A0A?style=flat-square&logoColor=C8743C)
+![i18n](https://img.shields.io/badge/i18n-0A0A0A?style=flat-square&logoColor=C8A03C)
+![Islands](https://img.shields.io/badge/Island_Architecture-0A0A0A?style=flat-square&logoColor=1AB8D4)
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center" style="display:flex; justify-content:center;">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellara181999&show_icons=true&theme=transparent" />
-  
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=gabriellara181999&theme=dark" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellara181999&show_icons=true&theme=transparent&title_color=C8A03C&icon_color=C8743C&text_color=E8E0C8&border_color=C8A03C" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=gabriellara181999&theme=darkhub&column=4&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -121,7 +123,7 @@ A modern tourism platform focused on showcasing the beauty, culture and experien
 
 <p align="center">
   <a href="https://www.dev-gabriel.fatimagabriel.me">
-    dev-gabriel.fatimagabriel.me
+    <img src="https://img.shields.io/badge/Profile_Link-dev--gabriel.fatimagabriel.me-AA0505?style=for-the-badge&labelColor=000000" />
   </a>
 </p>
 
